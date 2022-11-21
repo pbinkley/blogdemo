@@ -5,3 +5,5 @@ date:   2022-11-21
 ---
 
 This is my **first** [Jekyll](https://jekyllrb.org) blog post.
+
+![A picture I uploaded](/blogdemo/bink.png)
